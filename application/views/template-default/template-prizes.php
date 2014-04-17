@@ -1,0 +1,1 @@
+This page showing a prize.

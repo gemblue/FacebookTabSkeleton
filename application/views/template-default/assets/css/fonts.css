@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'district-boldaltregular';
+    src: url('../fonts/district-boldalt-webfont.eot');
+    src: url('../fonts/district-boldalt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/district-boldalt-webfont.woff') format('woff'),
+         url('../fonts/district-boldalt-webfont.ttf') format('truetype'),
+         url('../fonts/district-boldalt-webfont.svg#district-boldaltregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'district-mediumregular';
+    src: url('../fonts/district-medium-webfont.eot');
+    src: url('../fonts/district-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/district-medium-webfont.woff') format('woff'),
+         url('../fonts/district-medium-webfont.ttf') format('truetype'),
+         url('../fonts/district-medium-webfont.svg#district-mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'myriad_proregular';
+    src: url('../fonts/myriadpro_regular-webfont.eot');
+    src: url('../fonts/myriadpro_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/myriadpro_regular-webfont.woff') format('woff'),
+         url('../fonts/myriadpro_regular-webfont.ttf') format('truetype'),
+         url('../fonts/myriadpro_regular-webfont.svg#myriad_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'meta_normalroman';
+    src: url('../fonts/metanormal-roman-webfont.eot');
+    src: url('../fonts/metanormal-roman-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/metanormal-roman-webfont.woff') format('woff'),
+         url('../fonts/metanormal-roman-webfont.ttf') format('truetype'),
+         url('../fonts/metanormal-roman-webfont.svg#meta_normalroman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'metamedium_roman';
+    src: url('../fonts/metamedium-roman-webfont.eot');
+    src: url('../fonts/metamedium-roman-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/metamedium-roman-webfont.woff') format('woff'),
+         url('../fonts/metamedium-roman-webfont.ttf') format('truetype'),
+         url('../fonts/metamedium-roman-webfont.svg#metamedium_roman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

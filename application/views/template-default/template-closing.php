@@ -1,0 +1,1 @@
+This apps has been closed. Thank you for your partisipation.
